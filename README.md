@@ -12,4 +12,5 @@ Welcome to my **Gen AI Learning Journey**!
 
 ### Example Run
 **Prompt:** Explain RAG in one simple sentence with example
+
 **Output:** RAG combines retrieval with generation, e.g., fetching Wikipedia facts before answering 
