@@ -1,7 +1,7 @@
 # Gen_AI_learning_journey
 
 Welcome to my **Gen AI Learning Journey**!  
- I’ll be building one Gen AI project every day and sharing my progress here.
+ I’ll be building Gen AI projects and sharing my progress here.
 
 ---
 
